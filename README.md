@@ -1,1 +1,2 @@
 # Kezi-Szamlalo
+micro:bit
